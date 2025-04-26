@@ -1,0 +1,8 @@
+{
+  "name": "trackbuilder-3d",
+  "version": "1.0.0",
+  "scripts": {
+    "vercel-build": "echo 'No build step required'"
+  },
+  "dependencies": {}
+}
